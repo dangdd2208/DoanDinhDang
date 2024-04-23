@@ -37,17 +37,17 @@ UET - Assignment - Project.
 
 ## NỘI DUNG
 
-### 1. Cách cài đặt game
+### Cách cài đặt game {#cach-cai-dat-game}
 
 Đầu tiên, bạn phải cài đặt CODE::BLOCKS để chạy C++. Tiếp theo đó là cặt đặt thêm :
 
-- SDL 2.0
+- SDL 2.0: https://www.libsdl.org/download-1.2.php
 
-- SDL_image
+- SDL_image: https://github.com/libsdl-org/SDL_image/releases
 
-- SDL_mixer
+- SDL_mixer: https://github.com/libsdl-org/SDL_mixer/releases
 
-- SDL_ttf
+- SDL_ttf: https://github.com/libsdl-org/SDL_ttf/releases
 
 Sau khi tải xong, sử dụng terminal để dowload source code(dùng lệnh git clone):
 
@@ -57,7 +57,7 @@ Mọi khó khăn liên hệ: dinhdang2208@gmail.com.
 
 ### 2. Cách chơi game và preview{#cach-choi-game-va-preview}
 
-Sử dụng các phím:         để tránh vật thể đang rơi từ trên cao xuống và đạt được điểm cao nhất.
+Sử dụng các phím: W  hoặc       để tránh vật thể đang rơi từ trên cao xuống và đạt được điểm cao nhất.
 
 ### Các kĩ thuật được sử dụng {# cac-ki-thuat-duoc-su-dung}
 
@@ -79,7 +79,9 @@ Có sử dụng các thuật toán đơn giản.
 
 Hình ảnh và âm  thanh , phông chữ đều được tìm kiếm trên google.
 
-Lazyfoo: https://lazyfoo.net/tutorials/SDL.
+Tài liệu hướng dẫn của thư viện SDL2: https://wiki.libsdl.org
+
+Lazyfoo: https://lazyfoo.net/tutorials/SDL
 
 ## ĐÓNG GÓP
 
