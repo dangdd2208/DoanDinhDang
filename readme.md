@@ -1,7 +1,7 @@
-#PLANE_MÁY BAY TRÁNH VẬT RƠI.
-
+# PLANE_MÁY BAY TRÁNH VẬT RƠI
 UET - Assignment - Project.
-#Giới thiệu
+
+## Giới thiệu
 
 Họ và Tên : Đoàn Đình Đăng.
 
@@ -13,29 +13,14 @@ Lớp học phần : LTNC_INT 2215_50.
 
 Bài Tập lớn : Plane_MÁY BAY TRÁNH VẬT RƠI.
 
-#MÔ TẢ
-
+## MÔ TẢ
 Đây là trò chơi theo ý tưởng của game của google khi mất mạng.
-
 Đây là phiên bản cho PC.
-
 Có âm thanh khi trải nghiệm.
-
 Game có các chức năng như : menu , chơi lại , mạng chơi , lưu điểm cao nhất.
 
-##Video Demo:
-
-##MỤC LỤC
-
-## MỤC LỤC
-
-1. Cách cài đặt game
-
-2. Cách chơi game và preview
-
-3. Các kĩ thuật được sử dụng
-
-4. Nguồn tham khảo
+## Video Demo
+(Đặt liên kết video demo ở đây)
 
 
 ## NỘI DUNG
