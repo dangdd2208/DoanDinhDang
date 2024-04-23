@@ -43,11 +43,11 @@ Sau đó, bạn có thể bắt đầu trò chơi.
 
 Mọi khó khăn liên hệ: dinhdang2208@gmail.com.
 
-###2,Cách chơi game và preview
+### 2. Cách chơi game và preview
 
 Sử dụng các phím:         để tránh vật thể đang rơi từ trên cao xuống và đạt được điểm cao nhất.
 
-###3,Các kĩ thuật được dùng
+### 3. Các kĩ thuật được dùng
 
 Thư viện SDL2(hình ảnh, âm thanh, font chữ).
 
@@ -63,13 +63,13 @@ Có hàm xử lí âm thanh, Hình ảnh, Bàn phím,....
 
 Có sử dụng các thuật toán đơn giản.
 
-###4,Nguồn tham khảo
+### 4. Nguồn tham khảo
 
 Hình ảnh và âm  thanh , phông chữ đều được tìm kiếm trên google.
 
 Lazyfoo: https://lazyfoo.net/tutorials/SDL.
 
-##ĐÓNG GÓP
+## ĐÓNG GÓP
 
 Cảm ơn các thầy đã hỗ trợ em:
 
@@ -77,7 +77,7 @@ Thầy Lê Đức Trọng.
 
 Thầy Trần Trường Thủy.
 
-##KẾT LUẬN
+## KẾT LUẬN
 
 Việc hoàn thiện project này giúp em mở mang rất nhiều :
 
