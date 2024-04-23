@@ -3,25 +3,38 @@ UET - Assignment - Project.
 
 ## Giới thiệu
 
-Họ và Tên : Đoàn Đình Đăng.
+ Họ và Tên : Đoàn Đình Đăng.
 
-Lớp : K68CC - UET.
+ Lớp : K68CC - UET.
 
-Mã SV : 23020041.
+ Mã SV : 23020041.
 
-Lớp học phần : LTNC_INT 2215_50.
+ Lớp học phần : LTNC_INT 2215_50.
 
-Bài Tập lớn : Plane_MÁY BAY TRÁNH VẬT RƠI.
+ Bài Tập lớn : Plane_MÁY BAY TRÁNH VẬT RƠI.
 
 ## MÔ TẢ
-Đây là trò chơi theo ý tưởng của game của google khi mất mạng.
-Đây là phiên bản cho PC.
-Có âm thanh khi trải nghiệm.
-Game có các chức năng như : menu , chơi lại , mạng chơi , lưu điểm cao nhất.
+
+ Đây là trò chơi theo ý tưởng của game của google khi mất mạng.
+
+ Đây là phiên bản cho PC.
+
+ Có âm thanh khi trải nghiệm.
+
+ Game có các chức năng như : menu , chơi lại , mạng chơi , lưu điểm cao nhất.
 
 ## Video Demo
 (Đặt liên kết video demo ở đây)
 
+## MỤC LỤC
+
+1. Cách cài đặt game
+
+2. Cách chơi game và preview
+
+3. Các kĩ thuật được sử dụng
+
+4. Nguồn tham khảo
 
 ## NỘI DUNG
 
@@ -71,20 +84,20 @@ Lazyfoo: https://lazyfoo.net/tutorials/SDL.
 
 ## ĐÓNG GÓP
 
-Cảm ơn các thầy đã hỗ trợ em:
+ Cảm ơn các thầy đã hỗ trợ em:
 
-Thầy Lê Đức Trọng.
+ Thầy Lê Đức Trọng.
 
 Thầy Trần Trường Thủy.
 
 ## KẾT LUẬN
 
-Việc hoàn thiện project này giúp em mở mang rất nhiều :
+ Việc hoàn thiện project này giúp em mở mang rất nhiều :
 
-Biết cách dùng github.
+ Biết cách dùng github.
 
-Biết chia nhỏ vấn đề và chia file.
+ Biết chia nhỏ vấn đề và chia file.
 
-Biết cách sử dụng thư viện SDL.
+ Biết cách sử dụng thư viện SDL.
 
 Học thêm được các thuật toán.
