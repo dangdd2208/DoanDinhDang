@@ -13,6 +13,9 @@ UET - Assignment - Project.
 
  Bài Tập lớn : Plane_MÁY BAY TRÁNH VẬT RƠI.
 
+ Link Bài tập lớn : https://github.com/dangdd2208/dang23020041.
+ 
+ 
 ## MÔ TẢ
 
  Đây là trò chơi theo ý tưởng của game của google khi mất mạng.
@@ -34,7 +37,7 @@ UET - Assignment - Project.
 
 ## NỘI DUNG
 
-### Cách cài đặt game {#cach-cai-dat-game}
+### Cách cài đặt game {# cach-cai-dat-game}
 
 Đầu tiên, bạn phải cài đặt CODE::BLOCKS để chạy C++. Tiếp theo đó là cặt đặt thêm :
 
@@ -52,11 +55,11 @@ Sau đó, bạn có thể bắt đầu trò chơi.
 
 Mọi khó khăn liên hệ: dinhdang2208@gmail.com.
 
-### Cách chơi game và preview {#cach-choi-game-va-preview}
+### Cách chơi game và preview {# cach-choi-game-va-preview}
 
 Sử dụng các phím:         để tránh vật thể đang rơi từ trên cao xuống và đạt được điểm cao nhất.
 
-### Các kĩ thuật được sử dụng {#cac-ki-thuat-duoc-su-dung}
+### Các kĩ thuật được sử dụng {# cac-ki-thuat-duoc-su-dung}
 
 Thư viện SDL2(hình ảnh, âm thanh, font chữ).
 
@@ -72,7 +75,7 @@ Có hàm xử lí âm thanh, Hình ảnh, Bàn phím,....
 
 Có sử dụng các thuật toán đơn giản.
 
-### Nguồn tham khảo {#nguon-tham-khao}
+### Nguồn tham khảo {# nguon-tham-khao}
 
 Hình ảnh và âm  thanh , phông chữ đều được tìm kiếm trên google.
 
@@ -80,11 +83,11 @@ Lazyfoo: https://lazyfoo.net/tutorials/SDL.
 
 ## ĐÓNG GÓP
 
-- Cảm ơn các thầy đã hỗ trợ em:
+Cảm ơn các thầy đã hỗ trợ em:
 
 - Thầy Lê Đức Trọng.
 
-Thầy Trần Trường Thủy.
+- Thầy Trần Trường Thủy.
 
 ## KẾT LUẬN
 
