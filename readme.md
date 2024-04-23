@@ -27,17 +27,20 @@ Game có các chức năng như : menu , chơi lại , mạng chơi , lưu đi�
 
 ##MỤC LỤC
 
-1,Cách cài đặt game.
+## MỤC LỤC
 
-2,Cách chơi game và preview.
+1. Cách cài đặt game
 
-3,Các kĩ thuật được sử dụng.
+2. Cách chơi game và preview
 
-4,Nguồn tham khảo.
+3. Các kĩ thuật được sử dụng
 
-##NỘI DUNG
+4. Nguồn tham khảo
 
-###1, Cách cài đặt game.
+
+## NỘI DUNG
+
+### 1. Cách cài đặt game
 
 Đầu tiên, bạn phải cài đặt CODE::BLOCKS để chạy C++. Tiếp theo đó là cặt đặt thêm :
 
