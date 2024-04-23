@@ -27,13 +27,9 @@ UET - Assignment - Project.
 (Đặt liên kết video demo ở đây)
 
 ## MỤC LỤC
-
 1. Cách cài đặt game
-
 2. Cách chơi game và preview
-
 3. Các kĩ thuật được sử dụng
-
 4. Nguồn tham khảo
 
 ## NỘI DUNG
@@ -84,9 +80,9 @@ Lazyfoo: https://lazyfoo.net/tutorials/SDL.
 
 ## ĐÓNG GÓP
 
- Cảm ơn các thầy đã hỗ trợ em:
+- Cảm ơn các thầy đã hỗ trợ em:
 
- Thầy Lê Đức Trọng.
+- Thầy Lê Đức Trọng.
 
 Thầy Trần Trường Thủy.
 
