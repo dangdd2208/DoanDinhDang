@@ -30,7 +30,7 @@ UET - Assignment - Project.
 (Đặt liên kết video demo ở đây)
 
 ## MỤC LỤC
- 1. [ Cách cài đặt game](#cach-cai-dat-game)
+ 1. [ Cách cài đặt game](#cách-cài-đặt-game)
 
  2. [ Cách chơi game và preview](#cach-choi-game-va-preview)
 
