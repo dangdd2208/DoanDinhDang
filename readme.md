@@ -58,11 +58,11 @@ Sau đó, bạn có thể bắt đầu trò chơi.
 
 Mọi khó khăn liên hệ: dinhdang2208@gmail.com.
 
-### 2. Cách chơi game và preview{#cach-choi-game-va-preview}
+## 2. Cách chơi game và preview
 
 Sử dụng các phím: W  hoặc       để tránh vật thể đang rơi từ trên cao xuống và đạt được điểm cao nhất.
 
-### Các kĩ thuật được sử dụng {# cac-ki-thuat-duoc-su-dung}
+## 3. Các kĩ thuật được sử dụng
 
 Thư viện SDL2(hình ảnh, âm thanh, font chữ).
 
@@ -78,7 +78,7 @@ Có hàm xử lí âm thanh, Hình ảnh, Bàn phím,....
 
 Có sử dụng các thuật toán đơn giản.
 
-### Nguồn tham khảo {# nguon-tham-khao}
+## 4. Nguồn tham khảo
 
 Hình ảnh và âm  thanh , phông chữ đều được tìm kiếm trên google.
 
