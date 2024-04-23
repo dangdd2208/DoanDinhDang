@@ -30,13 +30,13 @@ UET - Assignment - Project.
 (Đặt liên kết video demo ở đây)
 
 ## MỤC LỤC
- 1. [ Cách cài đặt game](#cách-cài-đặt-game)
+ 1. [ Cách cài đặt game](#1-cách-cài-đặt-game)
 
- 2. [ Cách chơi game và preview](#cach-choi-game-va-preview)
+ 2. [ Cách chơi game và preview](#2-cách-chơi-game-và-preview)
 
- 3. [ Các kĩ thuật được sử dụng](#cac-ki-thuat-duoc-su-dung)
+ 3. [ Các kĩ thuật được sử dụng](#3-các-kĩ-thuật-được-sử-dụng)
 
- 4. [ Nguồn tham khảo](#nguon-tham-khao)
+ 4. [ Nguồn tham khảo](#4-nguồn-tham-khảo)
 
 ## NỘI DUNG
 
