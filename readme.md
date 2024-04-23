@@ -30,17 +30,17 @@ UET - Assignment - Project.
 (Đặt liên kết video demo ở đây)
 
 ## MỤC LỤC
- 1. [Cách cài đặt game](#cach-cai-dat-game)
+ 1. [ Cách cài đặt game](#cach-cai-dat-game)
 
- 2. [Cách chơi game và preview](#cach-choi-game-va-preview)
+ 2. [ Cách chơi game và preview](#cach-choi-game-va-preview)
 
- 3. [Các kĩ thuật được sử dụng](#cac-ki-thuat-duoc-su-dung)
+ 3. [ Các kĩ thuật được sử dụng](#cac-ki-thuat-duoc-su-dung)
 
- 4. [Nguồn tham khảo](#nguon-tham-khao)
+ 4. [ Nguồn tham khảo](#nguon-tham-khao)
 
 ## NỘI DUNG
 
-## 1. Cách cài đặt game 
+### 1. Cách cài đặt game 
 
 Đầu tiên, bạn phải cài đặt CODE::BLOCKS để chạy C++. Tiếp theo đó là cặt đặt thêm :
 
@@ -58,7 +58,7 @@ Sau đó, bạn có thể bắt đầu trò chơi.
 
 Mọi khó khăn liên hệ: dinhdang2208@gmail.com.
 
-## 2. Cách chơi game và preview
+### 2. Cách chơi game và preview
 
 Sử dụng các phím: W  hoặc       để tránh vật thể đang rơi từ trên cao xuống và đạt được điểm cao nhất.
 
@@ -78,7 +78,7 @@ Có hàm xử lí âm thanh, Hình ảnh, Bàn phím,....
 
 Có sử dụng các thuật toán đơn giản.
 
-## 4. Nguồn tham khảo
+### 4. Nguồn tham khảo
 
 Hình ảnh và âm  thanh , phông chữ đều được tìm kiếm trên google.
 
