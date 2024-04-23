@@ -55,7 +55,7 @@ Sau đó, bạn có thể bắt đầu trò chơi.
 
 Mọi khó khăn liên hệ: dinhdang2208@gmail.com.
 
-### 2. [Cách chơi game và preview](#cach-choi-game-va-preview)
+### 2. Cách chơi game và preview{#cach-choi-game-va-preview}
 
 Sử dụng các phím:         để tránh vật thể đang rơi từ trên cao xuống và đạt được điểm cao nhất.
 
