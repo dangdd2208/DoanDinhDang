@@ -40,7 +40,7 @@ UET - Assignment - Project.
 
 ## NỘI DUNG
 
-### 1. Cách cài đặt game 
+### Cách cài đặt game 
 
 Đầu tiên, bạn phải cài đặt CODE::BLOCKS để chạy C++. Tiếp theo đó là cặt đặt thêm :
 
@@ -58,11 +58,11 @@ Sau đó, bạn có thể bắt đầu trò chơi.
 
 Mọi khó khăn liên hệ: dinhdang2208@gmail.com.
 
-### 2. Cách chơi game và preview
+### Cách chơi game và preview
 
 Sử dụng các phím: W  hoặc       để tránh vật thể đang rơi từ trên cao xuống và đạt được điểm cao nhất.
 
-## 3. Các kĩ thuật được sử dụng
+### Các kĩ thuật được sử dụng
 
 Thư viện SDL2(hình ảnh, âm thanh, font chữ).
 
@@ -78,7 +78,7 @@ Có hàm xử lí âm thanh, Hình ảnh, Bàn phím,....
 
 Có sử dụng các thuật toán đơn giản.
 
-### 4. Nguồn tham khảo
+### Nguồn tham khảo
 
 Hình ảnh và âm  thanh , phông chữ đều được tìm kiếm trên google.
 
