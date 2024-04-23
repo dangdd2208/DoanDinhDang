@@ -37,7 +37,7 @@ UET - Assignment - Project.
 
 ## NỘI DUNG
 
-### Cách cài đặt game {# cach-cai-dat-game}
+### 1. Cách cài đặt game
 
 Đầu tiên, bạn phải cài đặt CODE::BLOCKS để chạy C++. Tiếp theo đó là cặt đặt thêm :
 
